@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "啟動 Streamlit 應用程式",
+			"type": "shell",
+			"command": "streamlit run streamlit_app.py",
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "啟動 Streamlit 應用程式",
+			"type": "shell",
+			"command": "D:/Github/python_crawl/USD_GOLD/.venv/Scripts/streamlit run streamlit_app.py",
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}

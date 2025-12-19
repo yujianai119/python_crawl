@@ -1,0 +1,96 @@
+{
+  "updated_at": "2025-12-18T06:43:24.832697+00:00",
+  "rates": [
+    {
+      "currency": "美金",
+      "name": "美金 (USD)",
+      "buy": 31.51,
+      "sell": 31.61
+    },
+    {
+      "currency": "港幣",
+      "name": "港幣 (HKD)",
+      "buy": 4.026,
+      "sell": 4.086
+    },
+    {
+      "currency": "英鎊",
+      "name": "英鎊 (GBP)",
+      "buy": 42.0,
+      "sell": 42.4
+    },
+    {
+      "currency": "澳幣",
+      "name": "澳幣 (AUD)",
+      "buy": 20.74,
+      "sell": 20.94
+    },
+    {
+      "currency": "加拿大幣",
+      "name": "加拿大幣 (CAD)",
+      "buy": 22.81,
+      "sell": 23.01
+    },
+    {
+      "currency": "新加坡幣",
+      "name": "新加坡幣 (SGD)",
+      "buy": 24.35,
+      "sell": 24.53
+    },
+    {
+      "currency": "瑞士法郎",
+      "name": "瑞士法郎 (CHF)",
+      "buy": 39.56,
+      "sell": 39.81
+    },
+    {
+      "currency": "日圓",
+      "name": "日圓 (JPY)",
+      "buy": 0.2005,
+      "sell": 0.2045
+    },
+    {
+      "currency": "南非幣",
+      "name": "南非幣 (ZAR)",
+      "buy": 1.843,
+      "sell": 1.923
+    },
+    {
+      "currency": "瑞典幣",
+      "name": "瑞典幣 (SEK)",
+      "buy": 3.35,
+      "sell": 3.45
+    },
+    {
+      "currency": "紐元",
+      "name": "紐元 (NZD)",
+      "buy": 18.09,
+      "sell": 18.29
+    },
+    {
+      "currency": "泰幣",
+      "name": "泰幣 (THB)",
+      "buy": 0.9883,
+      "sell": 1.0283
+    },
+    {
+      "currency": "歐元",
+      "name": "歐元 (EUR)",
+      "buy": 36.87,
+      "sell": 37.27
+    },
+    {
+      "currency": "人民幣",
+      "name": "人民幣 (CNY)",
+      "buy": 4.46,
+      "sell": 4.51
+    }
+  ],
+  "all_banks_usd": [],
+  "gold_price": {
+    "buy": null,
+    "sell": null,
+    "update_time": null
+  },
+  "rates_update_time": "2025/12/18 14:35"
+}

@@ -1,0 +1,8 @@
+{
+  "updated_at": "2025-12-14T00:00:00",
+  "rates": [
+    {"currency": "USD", "buy": 30.5, "sell": 31.0, "trade": true, "raw": {}},
+    {"currency": "JPY", "buy": 0.21, "sell": 0.22, "trade": true, "raw": {}},
+    {"currency": "ABC", "buy": null, "sell": null, "trade": false, "raw": {}}
+  ]
+}
